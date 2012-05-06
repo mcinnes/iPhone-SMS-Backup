@@ -9,5 +9,5 @@ To run the script
 1. Open backup.sh and change deviceip to the IP address of your device 
 2. cd to the directory the script is in
 3. Type "sh backup.sh" (remove the quotes)
-4. Wait for script to ask for password then enter "alpine" if you haven't changed the default password or the password you changed it to.
+4. Wait for script to ask for password then enter "alpine" if you haven't changed the default password or enter the password you changed it to.
 5. Wait for script to finish copying then finder will open in the backup directory
